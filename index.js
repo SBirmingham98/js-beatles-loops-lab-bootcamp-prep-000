@@ -20,4 +20,6 @@ function johnLennonFacts(facts) {
     return newFacts;
 }
 
-function
+function loveBeatles() {
+  
+}
